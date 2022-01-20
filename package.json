@@ -3,7 +3,12 @@
     "displayName": "White Oak Chillhop",
     "description": "VSCode Theme designed on codethemecustomizer.com to match the live wallpaper White Oak Chillhop.",
     "publisher": "ZaderRox1111",
+    "icon": "images/Logo.jpg",
     "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZaderRox1111/White-Oak-VSCode-theme"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
