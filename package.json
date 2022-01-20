@@ -1,0 +1,29 @@
+{
+    "name": "white-oak-chillhop",
+    "displayName": "White Oak Chillhop",
+    "description": "VSCode Theme designed on codethemecustomizer.com to match the live wallpaper White Oak Chillhop.",
+    "publisher": "ZaderRox1111",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "good",
+        "vibe",
+        "chill"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "White Oak Chillhop Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/White Oak Chillhop Dark-color-theme.json"
+            }
+        ]
+    }
+}
